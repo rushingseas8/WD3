@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=f\ spawnX\ spawnY
+comment0.target=Player(Floor,\ int,\ int)
+comment1.params=amount
+comment1.target=void\ moveUp(int)
+comment2.params=amount
+comment2.target=void\ moveDown(int)
+comment3.params=amount
+comment3.target=void\ moveRight(int)
+comment4.params=amount
+comment4.target=void\ moveLeft(int)
+comment5.params=x\ y
+comment5.target=boolean\ checkWalkable(int,\ int)
+comment6.params=
+comment6.target=java.awt.Image\ getTexture()
+comment7.params=filename
+comment7.target=java.net.URL\ getURL(java.lang.String)
+numComments=8

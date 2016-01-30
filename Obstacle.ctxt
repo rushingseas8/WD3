@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Obstacle()
+comment1.params=Texture\ solid
+comment1.target=Obstacle(java.lang.String,\ boolean)
+comment2.params=Texture
+comment2.target=void\ setTexture(java.lang.String)
+comment3.params=
+comment3.target=java.awt.Image\ getTexture()
+comment4.params=sol
+comment4.target=void\ setSolidity(boolean)
+comment5.params=
+comment5.target=boolean\ getSolidity()
+comment6.params=filename
+comment6.target=java.net.URL\ getURL(java.lang.String)
+numComments=7
